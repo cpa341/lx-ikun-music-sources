@@ -1,5 +1,5 @@
 /*!
- * @name lx-玉宁熙-Pro
+ * @name lx-玉宁熙
  * @description 不出意外的话 最后一版 有缘再见
  * @version v1.2.2
  * @author ynx(2363768762)
